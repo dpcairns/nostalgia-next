@@ -1,0 +1,15 @@
+.itemContainer {
+  width: 100%;
+  background: lightpink;
+  display: flex;
+  justify-content: center;
+}
+
+.item {
+  width: 200px;
+  background: lightblue;
+  border: solid 1px magenta;
+  padding: 5px;
+  border-radius: 5px;
+  margin: 100px;
+}
